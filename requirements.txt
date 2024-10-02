@@ -1,0 +1,7 @@
+Pillow
+torch
+fastapi
+uvicorn
+pydantic
+slowapi
+environs
